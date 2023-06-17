@@ -17,7 +17,7 @@
   "scripts": {
     "start": "react-scripts start",
     "install-client": "npm install",
-    "build-client": "npm run build",
+    "build-client": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
